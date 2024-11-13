@@ -1,4 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# Name : ADHITHYA PERUMAL D
+# Reg No: 212222230007
+# DATE: 27.08.2024
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
